@@ -15,10 +15,6 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 import random
 import varList
-
-
-
-
 # ────────────────────────────────────────────────────────────────────────────────────────────
 BATCH_NAME = "BATCH1_LP_VIP"
 START_TIME = datetime.now()
