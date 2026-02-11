@@ -1,0 +1,8 @@
+
+__pycache__/
+.env
+varList.py
+.venv/
+venv/
+env/
+/encar_notUsed
